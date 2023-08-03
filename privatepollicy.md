@@ -13,7 +13,7 @@ this information is also not stored in databases.
 - Information is collected in: ticket system, server information commands, log system.
 
 
-  - Keep in mind that Discord is a reliable platform for communication, so we as bot developers would not like to spoil the reputation.
+- Keep in mind that Discord is a reliable platform for communication, so we as bot developers would not like to spoil the reputation.
 
 All these information collections (mentioned above) are used only for 
 one-time display of informational embeds, nothing more.
