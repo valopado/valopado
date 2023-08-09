@@ -14,3 +14,6 @@ The data is stored in the Squirrel service until the server administration kicks
 <li> Submit a request to the technical support server to delete entries in the database.</li>
 <li> Contact the bot developers using feedback commands.</li>
 <li> Or just write your problem to the creator of the bot in private messages</li>
+
+<h2>Bot's owner contact information</h2>
+You can contact with me (<a href ='https://discord.com/users/700438930775867422'>click here</a>)
